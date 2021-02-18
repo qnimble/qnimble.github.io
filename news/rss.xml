@@ -15,12 +15,5 @@
             <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[qNimble has a new website! It will hold all the documentation for the Quarto and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new privacy policy. I hope you like it.]]></description>
         </item>
-        <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://docs.qnimble.com/news/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
-        </item>
     </channel>
 </rss>
