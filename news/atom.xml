@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.qnimble.com/news"/>
     <subtitle>qNimble Quarto Blog</subtitle>
-    <icon>https://docs.qnimble.com/img/favicon.ico</icon>
+    <icon>https://docs.qnimble.com/img/profile-256.png</icon>
     <rights>Copyright © 2021 qNimble.</rights>
     <entry>
         <title type="html"><![CDATA[New Website!]]></title>
