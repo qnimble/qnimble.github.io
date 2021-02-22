@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://docs.qnimble.com/news"/>
     <subtitle>qNimble Quarto Blog</subtitle>
     <icon>https://docs.qnimble.com/img/profile-256.png</icon>
-    <rights>Copyright © 2021 qNimble.</rights>
+    <rights>Copyright © 2021 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</rights>
     <entry>
         <title type="html"><![CDATA[New Website!]]></title>
         <id>new_website</id>
