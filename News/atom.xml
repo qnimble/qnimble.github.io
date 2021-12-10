@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qnimble.com/News</id>
+    <title>qNimble</title>
+    <updated>2021-11-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qnimble.com/News"/>
+    <subtitle>News for qNimble</subtitle>
+    <icon>https://qnimble.com/img/profile-256.png</icon>
+    <rights>Copyright © 2021 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</rights>
+    <entry>
+        <title type="html"><![CDATA[Vescent Exclusive US Distributor]]></title>
+        <id>Vescent_Distributor</id>
+        <link href="https://qnimble.com/News/Vescent_Distributor"/>
+        <updated>2021-11-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[asdf]]></summary>
+        <content type="html"><![CDATA[<div><div><p><img src="../static/img/Logo2-qNimble-ColorB.svg" alt="asdf"/></p></div><div><p><img src="../static/img/VescentNameAndMark.svg" alt="asdf"/></p></div></div><p><em>qNimble</em> is excited to announce that <a href="https://vescent.com">Vescent</a> will be the exclusive distributor of the <em><a href="/Quarto">Quarto</a></em> in the United States. Vescent has been selling electro-optical solutions to academic, government, and commercial laboratories for over 15 years.  With a broad product portfolio ranging from incredibly low-noise laser current controllers to turn-key frequency combs, <em>qNimble</em> is pleased to work together with Vescent to bring you the finest in laboratory tools and instruments.</p><p>For online sales in the US, you can securely <a href="https://vescent.com/us/quarto.html">order online</a>, or you can <a href="https://vescent.com/contact">contact Vescent</a>. For technical questions or sales outside of the USA, please <a href="/Contact">contact <em>qNimble</em></a>.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Website!]]></title>
+        <id>New_Website</id>
+        <link href="https://qnimble.com/News/New_Website"/>
+        <updated>2021-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[qNimble has a new website! It will hold all the documentation for the Quarto and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new privacy policy. I hope you like it.]]></summary>
+        <content type="html"><![CDATA[<p><em>qNimble</em> has a new website! It will hold all the documentation for the <em><a href="../Quarto">Quarto</a></em> and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new <a href="../privacy">privacy policy</a>. I hope you like it.</p>]]></content>
+        <author>
+            <name>BLuey</name>
+            <uri>https://www.linkedin.com/in/benluey</uri>
+        </author>
+    </entry>
+</feed>
