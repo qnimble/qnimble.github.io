@@ -2,12 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qnimble.com/News</id>
     <title>qNimble</title>
-    <updated>2022-01-03T00:00:00.000Z</updated>
+    <updated>2022-02-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qnimble.com/News"/>
     <subtitle>News for qNimble</subtitle>
     <icon>https://qnimble.com/img/profile-256.png</icon>
     <rights>Copyright © 2022 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</rights>
+    <entry>
+        <title type="html"><![CDATA[Quarto Back in Stock]]></title>
+        <id>InStock</id>
+        <link href="https://qnimble.com/News/InStock"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm excited to announce that the Quarto is back in stock! Strong initial sales causes the Quarto to sell out 3 weeks after our product launch. And unfortunately the global chip shortage delayed getting more Quartos made, but they are finally here. And going forward, we will do our best to navigate these supply-chain challenges to keep the Quarto in stock. I want to thank everyone who ordered a Quarto and did not receive it promptly for their patience.]]></summary>
+        <content type="html"><![CDATA[<p>I&#x27;m excited to announce that the <em>Quarto</em> is back in stock! Strong initial sales causes the <em>Quarto</em> to sell out 3 weeks after our product launch. And unfortunately the <a href="https://en.wikipedia.org/wiki/2020%E2%80%932022_global_chip_shortage">global chip shortage</a> delayed getting more <em>Quartos</em> made, but they are finally here. And going forward, we will do our best to navigate these supply-chain challenges to keep the <em>Quarto</em> in stock. I want to thank everyone who ordered a <em>Quarto</em> and did not receive it promptly for their patience.</p>]]></content>
+        <author>
+            <name>BLuey</name>
+            <uri>https://www.linkedin.com/in/benluey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sorry: Ignored Messages]]></title>
         <id>Ignored_Messages</id>
@@ -25,8 +37,8 @@
         <id>SoldOut</id>
         <link href="https://qnimble.com/News/SoldOut"/>
         <updated>2021-11-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Three weeks ago, we launched the Quarto and a partnered with Vescent who is our exclusive US distributor (press release) and already we have sold out of our initial inventory. This is exciting as early sales were much higher than expected, but unfortunately it means that we cannot ship from stock currently and any new orders will be delayed. We are working to get more *Quartos* made as soon as possible, but given the global chip shortage, this will take longer than we'd like. For the latest update on availablity and lead-time, please contact us.]]></summary>
-        <content type="html"><![CDATA[<p>Three weeks ago, we launched the <em>Quarto</em> and a partnered with <a href="https://vescent.com">Vescent</a> who is our exclusive US distributor (<a href="/News/Vescent_Distributor">press release</a>) and already we have sold out of our initial inventory. This is exciting as early sales were much higher than expected, but unfortunately it means that we cannot ship from stock currently and any new orders will be delayed. We are working to get more <em>Quartos</em> made as soon as possible, but given the <a href="https://en.wikipedia.org/wiki/2020%E2%80%932022_global_chip_shortage">global chip shortage</a>, this will take longer than we&#x27;d like. For the latest update on availablity and lead-time, please <a href="/Contact">contact us</a>.</p>]]></content>
+        <summary type="html"><![CDATA[Three weeks ago, we launched the Quarto and a partnered with Vescent who is our exclusive US distributor (press release) and already we have sold out of our initial inventory. This is exciting as early sales were much higher than expected, but unfortunately it means that we cannot ship from stock currently and any new orders will be delayed. We are working to get more *Quartos* made as soon as possible, but given the global chip shortage, this will take longer than we'd like. For the latest update on availability and lead-time, please contact us.]]></summary>
+        <content type="html"><![CDATA[<p>Three weeks ago, we launched the <em>Quarto</em> and a partnered with <a href="https://vescent.com">Vescent</a> who is our exclusive US distributor (<a href="/News/Vescent_Distributor">press release</a>) and already we have sold out of our initial inventory. This is exciting as early sales were much higher than expected, but unfortunately it means that we cannot ship from stock currently and any new orders will be delayed. We are working to get more <em>Quartos</em> made as soon as possible, but given the <a href="https://en.wikipedia.org/wiki/2020%E2%80%932022_global_chip_shortage">global chip shortage</a>, this will take longer than we&#x27;d like. For the latest update on availability and lead-time, please <a href="/Contact">contact us</a>.</p>]]></content>
         <author>
             <name>BLuey</name>
             <uri>https://www.linkedin.com/in/benluey</uri>
