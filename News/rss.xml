@@ -4,10 +4,19 @@
         <title>qNimble</title>
         <link>https://qnimble.com/News</link>
         <description>News for qNimble</description>
-        <lastBuildDate>Mon, 07 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2022 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</copyright>
+        <item>
+            <title><![CDATA[New Beta Software Channel]]></title>
+            <link>https://qnimble.com/News/Beta_Software</link>
+            <guid>Beta_Software</guid>
+            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Want to get the latest Arduino Quarto software? Then change the board mananger URL from https://qnimble.com/packageqnimbleindex.json to]]></description>
+            <content:encoded><![CDATA[<p>Want to get the latest Arduino Quarto software? Then change the board mananger URL from <code>https://qnimble.com/package_qnimble_index.json</code> to </p><pre><code>https://qnimble.com/package_qnimble_beta_index.json
+</code></pre><p>Then restart the Arduino IDE and when you go to the board manager, you will see options to install beta versions of our latest software.</p><img class="center" src="../img/Arduino-BetaChannels.png"/><p>For detailed instructions, follow the <a href="/Quarto/Quick_Start">Quick Start Guide</a> but use the beta URL listed above. For information about the latest (beta and released) software and new features, see the <a href="https://forum.qnimble.com/t/announcements">announcements page on the forum</a>.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Quarto now supports SD Cards]]></title>
             <link>https://qnimble.com/News/SDCard_support</link>
