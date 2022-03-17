@@ -1,0 +1,104 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "qNimble",
+    "home_page_url": "https://qnimble.com/News",
+    "description": "News for qNimble",
+    "items": [
+        {
+            "id": "Raffle",
+            "content_html": "<div class=\"row\"><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/Logo2-qNimble-DarkBackground-522d1bf88aa589b5a8ad03469ed2d7ff.png\" width=\"988\" height=\"274\"></p></div><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/VescentNameAndMark-91f86c2a9e2caee429610e0377fd19ff.svg\" width=\"2400\" height=\"600\"></p></div></div><p>In partnership with <a href=\"https://vescent.com\" target=\"_blank\" rel=\"noopener noreferrer\">Vescent</a>, <em>qNimble</em> is raffling off a free <em>Quarto</em>. To enter, please fill out for <a href=\"/Raffle\">entry form</a> describing how you would use the <em>Quarto</em>. Make sure to use your professional e-mail address as we are not accepting entries from @gmail.com and the like. Also, if you entered the raffle on Vescent's website, it is the same raffle, so no need to create a duplicate entry. The winner will be announced around May 16th. </p><p>By entering, you agree that <em>qNimble</em> and Vescent may, if you win, use your name and institution in promotional material. Please see <a href=\"/News/RaffleTerms\">Raffle Terms and Conditions</a> for full contest details.</p>",
+            "url": "https://qnimble.com/News/Raffle",
+            "title": "Raffle: Win a Free Quarto",
+            "summary": "asdf",
+            "date_modified": "2022-03-14T00:00:00.000Z",
+            "tags": []
+        },
+        {
+            "id": "Beta_Software",
+            "content_html": "<p>Want to get the latest Arduino Quarto software? Then change the board mananger URL from <code>https://qnimble.com/package_qnimble_index.json</code> to </p><div class=\"codeBlockContainer_I0IT theme-code-block\"><div class=\"codeBlockContent_wNvx\"><pre tabindex=\"0\" class=\"prism-code language-text codeBlock_jd64 thin-scrollbar\" style=\"color:#f8f8f2;background-color:#272822\"><code class=\"codeBlockLines_mRuA\"><span class=\"token-line\" style=\"color:#f8f8f2\"><span class=\"token plain\">https://qnimble.com/package_qnimble_beta_index.json</span><br></span></code></pre><button type=\"button\" aria-label=\"Copy code to clipboard\" class=\"copyButton_wuS7 clean-btn\">Copy</button></div></div><p>Then restart the Arduino IDE and when you go to the board manager, you will see options to install beta versions of our latest software.</p><img class=\"center\" src=\"../img/Arduino-BetaChannels.png\"><p>For detailed instructions, follow the <a href=\"/Quarto/Quick_Start\">Quick Start Guide</a> but use the beta URL listed above. For information about the latest (beta and released) software and new features, see the <a href=\"https://forum.qnimble.com/t/announcements\" target=\"_blank\" rel=\"noopener noreferrer\">announcements page on the forum</a>.</p>",
+            "url": "https://qnimble.com/News/Beta_Software",
+            "title": "New Beta Software Channel",
+            "summary": "Want to get the latest Arduino Quarto software? Then change the board mananger URL from https://qnimble.com/packageqnimbleindex.json to",
+            "date_modified": "2022-03-11T00:00:00.000Z",
+            "author": {
+                "name": "BLuey",
+                "url": "https://www.linkedin.com/in/benluey"
+            },
+            "tags": []
+        },
+        {
+            "id": "SDCard_support",
+            "content_html": "<p>With the release of the latest 1.2.x of the board software package for the <em>Quarto</em>, recent versions of the <em>Quarto</em> now support reading and writing to the SD card. All <em>Quarto</em>'s shipped after in Febuarary 2022 or later fully support the SD card. </p><p>To use the SD card, first in the Arduino IDE, go to Boards Manager and install the latest (1.2.x or higher) version of \"qNimble iMXRT Boards by qNimble\"</p><img class=\"center\" src=\"../img/arduino-board-support-1.2.x.png\"><p>Once installed, open the UsageAndBenchmark example under SD,</p><img class=\"center\" src=\"../img/arduino-example-sd-usage.png\"><p>Then you can put a SD card in the Quarto and run the example to do some basic operations and to benchmark the SD card. Or look at the example code to see how to list files, change directories, read and write files, etc.</p><p>If you aren't sure what version of the Quarto you have and if it supports the SD card, open the DeviceInfo example under Testing:</p><img class=\"center\" src=\"../img/arduino-example-deviceinfo.png\"><p>And when you run it, the output on the Serial Monitor should look something like:</p><div class=\"codeBlockContainer_I0IT theme-code-block\"><div class=\"codeBlockContent_wNvx\"><pre tabindex=\"0\" class=\"prism-code language-text codeBlock_jd64 thin-scrollbar\" style=\"color:#f8f8f2;background-color:#272822\"><code class=\"codeBlockLines_mRuA\"><span class=\"token-line\" style=\"color:#f8f8f2\"><span class=\"token plain\">Quarto Device Information</span><br></span><span class=\"token-line\" style=\"color:#f8f8f2\"><span class=\"token plain\">SN: 516</span><br></span><span class=\"token-line\" style=\"color:#f8f8f2\"><span class=\"token plain\">Device ID: qN-101.3.1</span><br></span><span class=\"token-line\" style=\"color:#f8f8f2\"><span class=\"token plain\">Firmware Revision: 1.26.46</span><br></span></code></pre><button type=\"button\" aria-label=\"Copy code to clipboard\" class=\"copyButton_wuS7 clean-btn\">Copy</button></div></div><p>If you see a Device ID of qN-101.3.1 or higher, you are ready to use the SD card. If you have qN-101.1.X or qN-101.2.X, please <a href=\"/Contact\">contact <em>qNimble</em></a> about your options for using the SD card with the <em>Quarto</em>.</p>",
+            "url": "https://qnimble.com/News/SDCard_support",
+            "title": "Quarto now supports SD Cards",
+            "summary": "With the release of the latest 1.2.x of the board software package for the Quarto, recent versions of the Quarto now support reading and writing to the SD card. All Quarto's shipped after in Febuarary 2022 or later fully support the SD card.",
+            "date_modified": "2022-03-07T00:00:00.000Z",
+            "author": {
+                "name": "BLuey",
+                "url": "https://www.linkedin.com/in/benluey"
+            },
+            "tags": []
+        },
+        {
+            "id": "InStock",
+            "content_html": "<p>I'm excited to announce that the <em>Quarto</em> is back in stock! Strong initial sales causes the <em>Quarto</em> to sell out 3 weeks after our product launch. And unfortunately the <a href=\"https://en.wikipedia.org/wiki/2020%E2%80%932022_global_chip_shortage\" target=\"_blank\" rel=\"noopener noreferrer\">global chip shortage</a> delayed getting more <em>Quartos</em> made, but they are finally here. And going forward, we will do our best to navigate these supply-chain challenges to keep the <em>Quarto</em> in stock. I want to thank everyone who ordered a <em>Quarto</em> and did not receive it promptly for their patience.</p>",
+            "url": "https://qnimble.com/News/InStock",
+            "title": "Quarto Back in Stock",
+            "summary": "I'm excited to announce that the Quarto is back in stock! Strong initial sales causes the Quarto to sell out 3 weeks after our product launch. And unfortunately the global chip shortage delayed getting more Quartos made, but they are finally here. And going forward, we will do our best to navigate these supply-chain challenges to keep the Quarto in stock. I want to thank everyone who ordered a Quarto and did not receive it promptly for their patience.",
+            "date_modified": "2022-02-21T00:00:00.000Z",
+            "author": {
+                "name": "BLuey",
+                "url": "https://www.linkedin.com/in/benluey"
+            },
+            "tags": []
+        },
+        {
+            "id": "Ignored_Messages",
+            "content_html": "<p>If you tried to contact <em>qNimble</em> via our <a href=\"/Contact\">contact us</a> web-form from late November through early December and didn't hear from us, I'm afraid it is because we lost your message. When you use the contact us web-form, an e-mail is sent to us and in late November we switched e-mail providers causing these e-mails to get blocked until we later updated some security-related email settings. Frustratingly, submissions did get an auto-reply e-mail from us saying we had received the message and would get back to you shortly, but this sadly was not that case. </p><p>Because we have a <a href=\"/Privacy\">privacy-focused website</a>, we have no logs of the submissions and no way to know who contacted us. So let me apologize to anyone I ghosted. It was unintentional and entirely our fault. I'm sorry. </p><p>If you want to get in touch with <em>qNimble</em> the <a href=\"/Contact\">contact us</a> link does work now, or you can call us at (720)-741-1556.</p>",
+            "url": "https://qnimble.com/News/Ignored_Messages",
+            "title": "Sorry: Ignored Messages",
+            "summary": "If you tried to contact qNimble via our contact us web-form from late November through early December and didn't hear from us, I'm afraid it is because we lost your message. When you use the contact us web-form, an e-mail is sent to us and in late November we switched e-mail providers causing these e-mails to get blocked until we later updated some security-related email settings. Frustratingly, submissions did get an auto-reply e-mail from us saying we had received the message and would get back to you shortly, but this sadly was not that case.",
+            "date_modified": "2022-01-03T00:00:00.000Z",
+            "author": {
+                "name": "BLuey",
+                "url": "https://www.linkedin.com/in/benluey"
+            },
+            "tags": []
+        },
+        {
+            "id": "SoldOut",
+            "content_html": "<p>Three weeks ago, we launched the <em>Quarto</em> and a partnered with <a href=\"https://vescent.com\" target=\"_blank\" rel=\"noopener noreferrer\">Vescent</a> who is our exclusive US distributor (<a href=\"/News/Vescent_Distributor\">press release</a>) and already we have sold out of our initial inventory. This is exciting as early sales were much higher than expected, but unfortunately it means that we cannot ship from stock currently and any new orders will be delayed. We are working to get more <em>Quartos</em> made as soon as possible, but given the <a href=\"https://en.wikipedia.org/wiki/2020%E2%80%932022_global_chip_shortage\" target=\"_blank\" rel=\"noopener noreferrer\">global chip shortage</a>, this will take longer than we'd like. For the latest update on availability and lead-time, please <a href=\"/Contact\">contact us</a>.</p>",
+            "url": "https://qnimble.com/News/SoldOut",
+            "title": "Initial Inventory Sold Out",
+            "summary": "Three weeks ago, we launched the Quarto and a partnered with Vescent who is our exclusive US distributor (press release) and already we have sold out of our initial inventory. This is exciting as early sales were much higher than expected, but unfortunately it means that we cannot ship from stock currently and any new orders will be delayed. We are working to get more *Quartos* made as soon as possible, but given the global chip shortage, this will take longer than we'd like. For the latest update on availability and lead-time, please contact us.",
+            "date_modified": "2021-11-29T00:00:00.000Z",
+            "author": {
+                "name": "BLuey",
+                "url": "https://www.linkedin.com/in/benluey"
+            },
+            "tags": []
+        },
+        {
+            "id": "Vescent_Distributor",
+            "content_html": "<div class=\"row\"><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/Logo2-qNimble-ColorB-3503d583f3935454e2a32a23fbb0f0d0.svg\" width=\"847\" height=\"212\"></p></div><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/VescentNameAndMark-91f86c2a9e2caee429610e0377fd19ff.svg\" width=\"2400\" height=\"600\"></p></div></div><p><em>qNimble</em> is excited to announce that <a href=\"https://vescent.com\" target=\"_blank\" rel=\"noopener noreferrer\">Vescent</a> will be the exclusive distributor of the <em><a href=\"/Quarto\">Quarto</a></em> in the United States. Vescent has been selling electro-optical solutions to academic, government, and commercial laboratories for over 15 years.  With a broad product portfolio ranging from incredibly low-noise laser current controllers to turn-key frequency combs, <em>qNimble</em> is pleased to work together with Vescent to bring you the finest in laboratory tools and instruments.</p><p>For online sales in the US, you can securely <a href=\"https://vescent.com/us/quarto.html\" target=\"_blank\" rel=\"noopener noreferrer\">order online</a>, or you can <a href=\"https://vescent.com/contact\" target=\"_blank\" rel=\"noopener noreferrer\">contact Vescent</a>. For technical questions or sales outside of the USA, please <a href=\"/Contact\">contact <em>qNimble</em></a>.</p>",
+            "url": "https://qnimble.com/News/Vescent_Distributor",
+            "title": "Vescent Exclusive US Distributor",
+            "summary": "asdf",
+            "date_modified": "2021-11-08T00:00:00.000Z",
+            "tags": []
+        },
+        {
+            "id": "New_Website",
+            "content_html": "<p><em>qNimble</em> has a new website! It will hold all the documentation for the <em><a href=\"/Quarto\">Quarto</a></em> and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new <a href=\"/privacy\">privacy policy</a>. I hope you like it.</p>",
+            "url": "https://qnimble.com/News/New_Website",
+            "title": "New Website!",
+            "summary": "qNimble has a new website! It will hold all the documentation for the Quarto and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new privacy policy. I hope you like it.",
+            "date_modified": "2021-03-09T00:00:00.000Z",
+            "author": {
+                "name": "BLuey",
+                "url": "https://www.linkedin.com/in/benluey"
+            },
+            "tags": []
+        }
+    ]
+}
