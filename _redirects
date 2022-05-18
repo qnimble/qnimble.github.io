@@ -5,6 +5,7 @@
 /QUICK /Quarto/Quick_Start 301
 package_qnimble_index.json https://raw.githubusercontent.com/qnimble/arduino_json/main/package_qnimble_index.json 302
 package_qnimble_beta_index.json https://raw.githubusercontent.com/qnimble/arduino_json/main/package_qnimble_beta_index.json 302
+package_qnimble_prototype_index.json https://raw.githubusercontent.com/qnimble/arduino_json/main/package_qnimble_prototype_index.json 302
 /Quarto/Examples/Overview /Quarto/Examples 301
 /Quarto/Software/Functions /Quarto/Functions 301
 /Quarto/Software/ADC /Quarto/Functions/ADC 301
