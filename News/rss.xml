@@ -4,10 +4,18 @@
         <title>qNimble</title>
         <link>https://qnimble.com/News</link>
         <description>News for qNimble</description>
-        <lastBuildDate>Mon, 14 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2022 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</copyright>
+        <item>
+            <title><![CDATA[Software 1.4 Release]]></title>
+            <link>https://qnimble.com/News/1.4-Release</link>
+            <guid>1.4-Release</guid>
+            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[With the release of the latest 1.4.x of the board software package for the Quarto, the new and better port selection comes out of beta and the device has much better crash detection. Now if you program the Quarto should that it crashes or can no longer response to USB, it will reboot into the bootloader where you can troubleshoot what went wrong and upload new code. See the Troubleshooting Guide for more details.]]></description>
+            <content:encoded><![CDATA[<p>With the release of the latest 1.4.x of the board software package for the <em>Quarto</em>, the new and better port selection comes out of beta and the device has much better crash detection. Now if you program the <em>Quarto</em> should that it crashes or can no longer response to USB, it will reboot into the bootloader where you can troubleshoot what went wrong and upload new code. See the <a href="/Quarto/Troubleshooting">Troubleshooting Guide</a> for more details.</p><img class="center" src="../img/arduino_board_version1p4.png">]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Raffle: Win a Free Quarto]]></title>
             <link>https://qnimble.com/News/Raffle</link>

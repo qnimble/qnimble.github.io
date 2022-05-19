@@ -5,6 +5,19 @@
     "description": "News for qNimble",
     "items": [
         {
+            "id": "1.4-Release",
+            "content_html": "<p>With the release of the latest 1.4.x of the board software package for the <em>Quarto</em>, the new and better port selection comes out of beta and the device has much better crash detection. Now if you program the <em>Quarto</em> should that it crashes or can no longer response to USB, it will reboot into the bootloader where you can troubleshoot what went wrong and upload new code. See the <a href=\"/Quarto/Troubleshooting\">Troubleshooting Guide</a> for more details.</p><img class=\"center\" src=\"../img/arduino_board_version1p4.png\">",
+            "url": "https://qnimble.com/News/1.4-Release",
+            "title": "Software 1.4 Release",
+            "summary": "With the release of the latest 1.4.x of the board software package for the Quarto, the new and better port selection comes out of beta and the device has much better crash detection. Now if you program the Quarto should that it crashes or can no longer response to USB, it will reboot into the bootloader where you can troubleshoot what went wrong and upload new code. See the Troubleshooting Guide for more details.",
+            "date_modified": "2022-05-19T00:00:00.000Z",
+            "author": {
+                "name": "BLuey",
+                "url": "https://www.linkedin.com/in/benluey"
+            },
+            "tags": []
+        },
+        {
             "id": "Raffle",
             "content_html": "<div class=\"row\"><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/Logo2-qNimble-DarkBackground-522d1bf88aa589b5a8ad03469ed2d7ff.png\" width=\"988\" height=\"274\"></p></div><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/VescentNameAndMark-91f86c2a9e2caee429610e0377fd19ff.svg\" width=\"2400\" height=\"600\"></p></div></div><p>In partnership with <a href=\"https://vescent.com\" target=\"_blank\" rel=\"noopener noreferrer\">Vescent</a>, <em>qNimble</em> is raffling off a free <em>Quarto</em>. To enter, please fill out for <a href=\"/Raffle\">entry form</a> describing how you would use the <em>Quarto</em>. Make sure to use your professional e-mail address as we are not accepting entries from @gmail.com and the like. Also, if you entered the raffle on Vescent's website, it is the same raffle, so no need to create a duplicate entry. The winner will be announced around May 16th. </p><p>By entering, you agree that <em>qNimble</em> and Vescent may, if you win, use your name and institution in promotional material. Please see <a href=\"/News/RaffleTerms\">Raffle Terms and Conditions</a> for full contest details.</p>",
             "url": "https://qnimble.com/News/Raffle",
