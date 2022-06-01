@@ -2,12 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qnimble.com/News</id>
     <title>qNimble</title>
-    <updated>2022-05-19T00:00:00.000Z</updated>
+    <updated>2022-06-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qnimble.com/News"/>
     <subtitle>News for qNimble</subtitle>
     <icon>https://qnimble.com/img/profile-256.png</icon>
     <rights>Copyright © 2022 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</rights>
+    <entry>
+        <title type="html"><![CDATA[And Raffle Winner is...]]></title>
+        <id>RaffleWinner</id>
+        <link href="https://qnimble.com/News/RaffleWinner"/>
+        <updated>2022-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In partnership with Vescent, this spring, qNimble raffled off a free Quarto.  We are pleased to announce the winner of the raffle is...:]]></summary>
+        <content type="html"><![CDATA[<p>In partnership with <a href="https://vescent.com" target="_blank" rel="noopener noreferrer">Vescent</a>, this spring, <em>qNimble</em> raffled off a free <em>Quarto</em>.  We are pleased to announce the winner of the raffle is...:</p><p><strong>Shankar Menon in Hannes Bernien's lab at the University of Chicago! </strong></p><p>We can't wait to see what you will do with is Shankar.</p><p>Thanks to everyone who entered the raffle, and if you want get a <em>Quarto</em> in a more deterministic fashion, please click <a href="/News/Orders">here</a>.</p><div class="row"><div class="col col--6 text--left"><p><img loading="lazy" alt="asdf" src="/assets/images/Logo2-qNimble-DarkBackground-522d1bf88aa589b5a8ad03469ed2d7ff.png" width="988" height="274"></p></div><div class="col col--6 text--left"><p><img loading="lazy" alt="asdf" src="/assets/images/VescentNameAndMark-91f86c2a9e2caee429610e0377fd19ff.svg" width="2400" height="600"></p></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Software 1.4 Release]]></title>
         <id>1.4-Release</id>

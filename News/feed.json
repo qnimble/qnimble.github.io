@@ -5,6 +5,15 @@
     "description": "News for qNimble",
     "items": [
         {
+            "id": "RaffleWinner",
+            "content_html": "<p>In partnership with <a href=\"https://vescent.com\" target=\"_blank\" rel=\"noopener noreferrer\">Vescent</a>, this spring, <em>qNimble</em> raffled off a free <em>Quarto</em>.  We are pleased to announce the winner of the raffle is...:</p><p><strong>Shankar Menon in Hannes Bernien's lab at the University of Chicago! </strong></p><p>We can't wait to see what you will do with is Shankar.</p><p>Thanks to everyone who entered the raffle, and if you want get a <em>Quarto</em> in a more deterministic fashion, please click <a href=\"/News/Orders\">here</a>.</p><div class=\"row\"><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/Logo2-qNimble-DarkBackground-522d1bf88aa589b5a8ad03469ed2d7ff.png\" width=\"988\" height=\"274\"></p></div><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/VescentNameAndMark-91f86c2a9e2caee429610e0377fd19ff.svg\" width=\"2400\" height=\"600\"></p></div></div>",
+            "url": "https://qnimble.com/News/RaffleWinner",
+            "title": "And Raffle Winner is...",
+            "summary": "In partnership with Vescent, this spring, qNimble raffled off a free Quarto.  We are pleased to announce the winner of the raffle is...:",
+            "date_modified": "2022-06-01T00:00:00.000Z",
+            "tags": []
+        },
+        {
             "id": "1.4-Release",
             "content_html": "<p>With the release of the latest 1.4.x of the board software package for the <em>Quarto</em>, the new and better port selection comes out of beta and the <em>Quarto</em> has much better crash detection. Now if you program the <em>Quarto</em> in a way that it crashes or can no longer response to USB, the device will automatically reboot into the bootloader where you can troubleshoot what went wrong and upload new code. See the <a href=\"/Quarto/Troubleshooting\">Troubleshooting Guide</a> for more details.</p><img class=\"center\" src=\"../img/arduino_board_version1p4.png\">",
             "url": "https://qnimble.com/News/1.4-Release",

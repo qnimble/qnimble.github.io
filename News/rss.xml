@@ -4,10 +4,18 @@
         <title>qNimble</title>
         <link>https://qnimble.com/News</link>
         <description>News for qNimble</description>
-        <lastBuildDate>Thu, 19 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2022 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</copyright>
+        <item>
+            <title><![CDATA[And Raffle Winner is...]]></title>
+            <link>https://qnimble.com/News/RaffleWinner</link>
+            <guid>RaffleWinner</guid>
+            <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[In partnership with Vescent, this spring, qNimble raffled off a free Quarto.  We are pleased to announce the winner of the raffle is...:]]></description>
+            <content:encoded><![CDATA[<p>In partnership with <a href="https://vescent.com" target="_blank" rel="noopener noreferrer">Vescent</a>, this spring, <em>qNimble</em> raffled off a free <em>Quarto</em>.  We are pleased to announce the winner of the raffle is...:</p><p><strong>Shankar Menon in Hannes Bernien's lab at the University of Chicago! </strong></p><p>We can't wait to see what you will do with is Shankar.</p><p>Thanks to everyone who entered the raffle, and if you want get a <em>Quarto</em> in a more deterministic fashion, please click <a href="/News/Orders">here</a>.</p><div class="row"><div class="col col--6 text--left"><p><img loading="lazy" alt="asdf" src="/assets/images/Logo2-qNimble-DarkBackground-522d1bf88aa589b5a8ad03469ed2d7ff.png" width="988" height="274"></p></div><div class="col col--6 text--left"><p><img loading="lazy" alt="asdf" src="/assets/images/VescentNameAndMark-91f86c2a9e2caee429610e0377fd19ff.svg" width="2400" height="600"></p></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Software 1.4 Release]]></title>
             <link>https://qnimble.com/News/1.4-Release</link>
