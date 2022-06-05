@@ -5,6 +5,19 @@
     "description": "News for qNimble",
     "items": [
         {
+            "id": "1.5-Release",
+            "content_html": "<p>Excited to announce the release of version 1.5 of the board software package for the <em>Quarto</em>. The Quarto now supports using either of its two serial communication ports and adds the new qCommand library to make it very easy to change variables on the <em>Quarto</em> with text commands over the comm port. See the <a href=\"/Quarto/Examples/Commands\">Serial Commands for Dynamic Control</a> example for a full description. Or take a look at the <a href=\"/Quarto/Examples/LockIn\">Lock-In Amplifier</a> example to see it in a real-world example. Also with this release are more Examples in the Arduino IDE for using and interacting with the <em>Quarto</em>. </p><p>If you aren't sure what version of package you have, go to Boards Manager in the Arduino IDE and filter for 'qN' and it should show what version you have installed. If you see something like 1.4.0, as shown below, click on upgrade. </p><img loading=\"lazy\" class=\"center img_ev3q\" src=\"../img/arduino_board_version1p4.png\">",
+            "url": "https://qnimble.com/News/1.5-Release",
+            "title": "Software 1.5 Release",
+            "summary": "Excited to announce the release of version 1.5 of the board software package for the Quarto. The Quarto now supports using either of its two serial communication ports and adds the new qCommand library to make it very easy to change variables on the Quarto with text commands over the comm port. See the Serial Commands for Dynamic Control example for a full description. Or take a look at the Lock-In Amplifier example to see it in a real-world example. Also with this release are more Examples in the Arduino IDE for using and interacting with the Quarto.",
+            "date_modified": "2022-06-06T00:00:00.000Z",
+            "author": {
+                "name": "BLuey",
+                "url": "https://www.linkedin.com/in/benluey"
+            },
+            "tags": []
+        },
+        {
             "id": "RaffleWinner",
             "content_html": "<p>In partnership with <a href=\"https://vescent.com\" target=\"_blank\" rel=\"noopener noreferrer\">Vescent</a>, this spring, <em>qNimble</em> raffled off a free <em>Quarto</em>.  We are pleased to announce the winner of the raffle is...:</p><p><strong>Shankar Menon in Hannes Bernien's lab at the University of Chicago! </strong></p><p>We can't wait to see what you will do with is Shankar.</p><p>Thanks to everyone who entered the raffle, and if you want get a <em>Quarto</em> in a more deterministic fashion, please click <a href=\"/Orders\">here</a>.</p><div class=\"row\"><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/Logo2-qNimble-DarkBackground-522d1bf88aa589b5a8ad03469ed2d7ff.png\" width=\"988\" height=\"274\" class=\"img_ev3q\"></p></div><div class=\"col col--6 text--left\"><p><img loading=\"lazy\" alt=\"asdf\" src=\"/assets/images/VescentNameAndMark-91f86c2a9e2caee429610e0377fd19ff.svg\" width=\"2400\" height=\"600\" class=\"img_ev3q\"></p></div></div>",
             "url": "https://qnimble.com/News/RaffleWinner",
@@ -111,7 +124,7 @@
         },
         {
             "id": "New_Website",
-            "content_html": "<p><em>qNimble</em> has a new website! It will hold all the documentation for the <em><a href=\"/Quarto\">Quarto</a></em> and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new <a href=\"/privacy\">privacy policy</a>. I hope you like it.</p>",
+            "content_html": "<p><em>qNimble</em> has a new website! It will hold all the documentation for the <em><a href=\"/Quarto\">Quarto</a></em> and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new <a href=\"/Privacy\">privacy policy</a>. I hope you like it.</p>",
             "url": "https://qnimble.com/News/New_Website",
             "title": "New Website!",
             "summary": "qNimble has a new website! It will hold all the documentation for the Quarto and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new privacy policy. I hope you like it.",

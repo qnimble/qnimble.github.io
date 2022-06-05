@@ -4,11 +4,19 @@
         <title>qNimble</title>
         <link>https://qnimble.com/News</link>
         <description>News for qNimble</description>
-        <lastBuildDate>Wed, 01 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2022 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</copyright>
+        <item>
+            <title><![CDATA[Software 1.5 Release]]></title>
+            <link>https://qnimble.com/News/1.5-Release</link>
+            <guid>1.5-Release</guid>
+            <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Excited to announce the release of version 1.5 of the board software package for the Quarto. The Quarto now supports using either of its two serial communication ports and adds the new qCommand library to make it very easy to change variables on the Quarto with text commands over the comm port. See the Serial Commands for Dynamic Control example for a full description. Or take a look at the Lock-In Amplifier example to see it in a real-world example. Also with this release are more Examples in the Arduino IDE for using and interacting with the Quarto.]]></description>
+            <content:encoded><![CDATA[<p>Excited to announce the release of version 1.5 of the board software package for the <em>Quarto</em>. The Quarto now supports using either of its two serial communication ports and adds the new qCommand library to make it very easy to change variables on the <em>Quarto</em> with text commands over the comm port. See the <a href="/Quarto/Examples/Commands">Serial Commands for Dynamic Control</a> example for a full description. Or take a look at the <a href="/Quarto/Examples/LockIn">Lock-In Amplifier</a> example to see it in a real-world example. Also with this release are more Examples in the Arduino IDE for using and interacting with the <em>Quarto</em>. </p><p>If you aren't sure what version of package you have, go to Boards Manager in the Arduino IDE and filter for 'qN' and it should show what version you have installed. If you see something like 1.4.0, as shown below, click on upgrade. </p><img loading="lazy" class="center img_ev3q" src="../img/arduino_board_version1p4.png">]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[And Raffle Winner is...]]></title>
             <link>https://qnimble.com/News/RaffleWinner</link>
@@ -87,7 +95,7 @@
             <guid>New_Website</guid>
             <pubDate>Tue, 09 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[qNimble has a new website! It will hold all the documentation for the Quarto and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new privacy policy. I hope you like it.]]></description>
-            <content:encoded><![CDATA[<p><em>qNimble</em> has a new website! It will hold all the documentation for the <em><a href="/Quarto">Quarto</a></em> and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new <a href="/privacy">privacy policy</a>. I hope you like it.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><em>qNimble</em> has a new website! It will hold all the documentation for the <em><a href="/Quarto">Quarto</a></em> and should be much faster too. It also uses no cookies, is GDPR compliant and follows our new <a href="/Privacy">privacy policy</a>. I hope you like it.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
