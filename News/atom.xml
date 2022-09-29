@@ -2,12 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qnimble.com/News</id>
     <title>qNimble</title>
-    <updated>2022-06-06T00:00:00.000Z</updated>
+    <updated>2022-09-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qnimble.com/News"/>
     <subtitle>News for qNimble</subtitle>
     <icon>https://qnimble.com/img/profile-256.png</icon>
     <rights>Copyright © 2022 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</rights>
+    <entry>
+        <title type="html"><![CDATA[App of Bethel University Using Quarto]]></title>
+        <id>BethelU_Quarto</id>
+        <link href="https://qnimble.com/News/BethelU_Quarto"/>
+        <updated>2022-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bethel University's Atomic, Molecular and Optical lab used a Quarto in their experiment as a Lock-In amplifier and servo and they wrote up a very nice application note. Some highlights about the Quarto:]]></summary>
+        <content type="html"><![CDATA[<p>Bethel University's <a href="https://sites.google.com/bethel.edu/bethel-amo" target="_blank" rel="noopener noreferrer">Atomic, Molecular and Optical lab</a> used a <em>Quarto</em> in their experiment as a Lock-In amplifier and servo and they wrote up a very nice application note. Some highlights about the <em>Quarto</em>:</p><blockquote><p>Overall, our lab has had a very positive experience using the qNimble Quarto. The Arduino code was easy to learn, and the ability to send serial commands to the Quarto provided a seamless interface with the experiment. The technical support offered by qNimble was invaluable, including answering emails with questions and tips and pointing us to helpful online forums. We are very grateful for their assistance and are benefitting from adding the Quarto to our laboratory apparatus.</p><p>The qNimble Quarto is a flexible data acquisition and experiment control device. Low latency &amp; jitter, high-resolution A2Ds &amp; D2As, a high sampling rate, and a facile user interface make the Quarto a high-performance tool for any laboratory.</p></blockquote><p>You can read the full application note <a target="_blank" href="/assets/files/qNimble_Quarto_Functioning_as_Lock-in_and_PI_servo-73beb5853f88f59d9789175785df048b.pdf">here</a>.</p>]]></content>
+        <author>
+            <name>BLuey</name>
+            <uri>https://www.linkedin.com/in/benluey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Software 1.5 Release]]></title>
         <id>1.5-Release</id>
