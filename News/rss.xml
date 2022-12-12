@@ -4,11 +4,19 @@
         <title>qNimble</title>
         <link>https://qnimble.com/News</link>
         <description>News for qNimble</description>
-        <lastBuildDate>Thu, 29 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2022 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</copyright>
+        <item>
+            <title><![CDATA[Sync to external 10 MHz Clock]]></title>
+            <link>https://qnimble.com/News/Sync_External_Clock</link>
+            <guid>Sync_External_Clock</guid>
+            <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I am excited to anounce that the latest version of the Quarto can now sync its clock to an external 10 MHz clock reference. This enables syncing the Quarto's ADC reading and DAC updates to]]></description>
+            <content:encoded><![CDATA[<p>I am excited to anounce that the latest version of the <em>Quarto</em> can now sync its clock to an external 10 MHz clock reference. This enables syncing the Quarto's ADC reading and DAC updates to </p><p>With the release of the latest 1.7.x of the board software package for the <em>Quarto</em>, all <em>Quarto's</em> running firmware 1.30.X and higher support this clock syncing. </p><p>To use the SD card, first in the Arduino IDE, go to Boards Manager and install the latest (1.7.x or higher) version of "qNimble iMXRT Boards by qNimble"</p><img loading="lazy" class="center img_ev3q" src="../img/arduino-board-support-1.2.x.png"><p>If you aren't sure what firmware version of the Quarto you have, open the DeviceInfo example under Testing:</p><img loading="lazy" class="center img_ev3q" src="../img/arduino-example-deviceinfo.png"><p>And when you run it, the output on the Serial Monitor should look something like:</p><div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#f8f8f2;--prism-background-color:#272822"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#f8f8f2"><span class="token plain">Quarto Device Information</span><br></span><span class="token-line" style="color:#f8f8f2"><span class="token plain">SN: 516</span><br></span><span class="token-line" style="color:#f8f8f2"><span class="token plain">Device ID: qN-101.5.1</span><br></span><span class="token-line" style="color:#f8f8f2"><span class="token plain">Firmware Revision: 1.29.45</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>If you see a firmware revision lower than 1.30.X, you will need to upgrade your firmware to use this feature. Please <a href="/Contact">contact <em>qNimble</em></a> about upgrading your firmware.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Two Photon Transition Locking with the Quarto (Bethel Univ.)]]></title>
             <link>https://qnimble.com/News/BethelU_Quarto</link>

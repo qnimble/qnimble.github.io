@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdoc_source=self.webpackChunkdoc_source||[]).push([[5963],{3391:function(e){e.exports=JSON.parse('{"permalink":"/News","page":1,"postsPerPage":10,"totalPages":2,"totalCount":12,"nextPage":"/News/page/2","blogDescription":"Blog","blogTitle":"qNimble News"}')}}]);
