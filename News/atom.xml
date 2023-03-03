@@ -2,12 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qnimble.com/News</id>
     <title>qNimble</title>
-    <updated>2022-12-21T00:00:00.000Z</updated>
+    <updated>2023-03-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qnimble.com/News"/>
     <subtitle>News for qNimble</subtitle>
     <icon>https://qnimble.com/img/profile-256.png</icon>
     <rights>Copyright © 2023 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</rights>
+    <entry>
+        <title type="html"><![CDATA[Release 1.8: Support for Threads]]></title>
+        <id>Threads</id>
+        <link href="https://qnimble.com/News/Threads"/>
+        <updated>2023-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Excited to announce the release of version 1.8 of the board software package for the Quarto which bundles a new library to enable threading with the Quarto. This means you can run multiple functions at the same time. Take a look at Threading Example for details, or try running some of the examples in the Arduino IDE.]]></summary>
+        <content type="html"><![CDATA[<p>Excited to announce the release of version 1.8 of the board software package for the <em>Quarto</em> which bundles a new library to enable threading with the <em>Quarto</em>. This means you can run multiple functions at the same time. Take a look at <a href="/Quarto/Examples/Threads">Threading Example</a> for details, or try running some of the examples in the Arduino IDE.</p><img loading="lazy" class="center img_ev3q" src="../img/arduino2-threadExamples.png">]]></content>
+        <author>
+            <name>BLuey</name>
+            <uri>https://www.linkedin.com/in/benluey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[External ADC Clock]]></title>
         <id>External_ADC_Clock</id>

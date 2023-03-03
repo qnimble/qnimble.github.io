@@ -4,11 +4,19 @@
         <title>qNimble</title>
         <link>https://qnimble.com/News</link>
         <description>News for qNimble</description>
-        <lastBuildDate>Wed, 21 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2023 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</copyright>
+        <item>
+            <title><![CDATA[Release 1.8: Support for Threads]]></title>
+            <link>https://qnimble.com/News/Threads</link>
+            <guid>Threads</guid>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Excited to announce the release of version 1.8 of the board software package for the Quarto which bundles a new library to enable threading with the Quarto. This means you can run multiple functions at the same time. Take a look at Threading Example for details, or try running some of the examples in the Arduino IDE.]]></description>
+            <content:encoded><![CDATA[<p>Excited to announce the release of version 1.8 of the board software package for the <em>Quarto</em> which bundles a new library to enable threading with the <em>Quarto</em>. This means you can run multiple functions at the same time. Take a look at <a href="/Quarto/Examples/Threads">Threading Example</a> for details, or try running some of the examples in the Arduino IDE.</p><img loading="lazy" class="center img_ev3q" src="../img/arduino2-threadExamples.png">]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[External ADC Clock]]></title>
             <link>https://qnimble.com/News/External_ADC_Clock</link>
