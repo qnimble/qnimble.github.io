@@ -4,11 +4,19 @@
         <title>qNimble</title>
         <link>https://qnimble.com/News</link>
         <description>News for qNimble</description>
-        <lastBuildDate>Fri, 03 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2023 &lt;div class="baloo"&gt;qNimble&lt;/div&gt;.</copyright>
+        <item>
+            <title><![CDATA[Autex Exclusive Distributor in Japan]]></title>
+            <link>https://qnimble.com/News/Autex_Distributor</link>
+            <guid>Autex_Distributor</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[qNimble is excited to announce that Autex will be the exclusive distributor of the Quarto in Japan. Autex has been selling electro-optical solutions to academic, government, and commercial laboratories for over 35 years.  With a broad product portfolio ranging covering optics, electronics and everything in between, qNimble is pleased to work together with Autex to bring the Quarto to Japan.]]></description>
+            <content:encoded><![CDATA[<div class="row"><div class="col col--6 text--left"><img loading="lazy" class="padTop img_ev3q" style="position:relative;top:50%;transform:translateY(-60%)" src="../img/Logo2-qNimble-ColorB.svg"></div><div class="col col--6 text--left"><img loading="lazy" class="padTop img_ev3q" style="height:125px" src="../img/AUTEX_logo.png"></div></div><p><em>qNimble</em> is excited to announce that <a href="https://autex-inc.co.jp" target="_blank" rel="noopener noreferrer">Autex</a> will be the exclusive distributor of the <em><a href="/Quarto">Quarto</a></em> in Japan. Autex has been selling electro-optical solutions to academic, government, and commercial laboratories for over 35 years.  With a broad product portfolio ranging covering optics, electronics and everything in between, <em>qNimble</em> is pleased to work together with Autex to bring the <em>Quarto</em> to Japan.</p><p>For sales in the Japan, please see <a href="https://www.autex-inc.co.jp/products/%E8%A8%88%E6%B8%AC%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E6%A9%9F%E5%99%A8%e3%80%80qnimble%e3%80%80%E5%A4%9A%E6%A9%9F%E8%83%BDdaq%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/" target="_blank" rel="noopener noreferrer">Autex's Quarto page</a>, or you can <a href="https://www.autex-inc.co.jp/contact/" target="_blank" rel="noopener noreferrer">contact Autex</a>. For technical questions or sales outside of the Japan, please <a href="/Contact">contact <em>qNimble</em></a>.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Release 1.8: Support for Threads]]></title>
             <link>https://qnimble.com/News/Threads</link>
